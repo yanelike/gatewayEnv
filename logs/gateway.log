@@ -1,0 +1,225 @@
+2018-07-11 10:10:00,731 ERROR (main) SpringApplication:842- Application run failed
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:120)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:84)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:62)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:74)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:54)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:358)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:317)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at hello.GatewayApplication.main(GatewayApplication.java:16)
+2018-07-11 10:12:40,114 ERROR (main) SpringApplication:842- Application run failed
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:120)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:84)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:62)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:74)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:54)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:358)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:317)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at hello.GatewayApplication.main(GatewayApplication.java:16)
+2018-07-11 10:13:26,324 ERROR (main) SpringApplication:842- Application run failed
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:120)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:84)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:62)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:74)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:54)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:358)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:317)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at hello.GatewayApplication.main(GatewayApplication.java:16)
+2018-07-11 10:14:41,946 ERROR (main) SpringApplication:842- Application run failed
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:120)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:84)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:62)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:74)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:54)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:358)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:317)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at hello.GatewayApplication.main(GatewayApplication.java:21)
+2018-07-11 10:16:00,766 ERROR (main) SpringApplication:842- Application run failed
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:120)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:84)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:62)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:74)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:54)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:358)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:317)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at hello.GatewayApplication.main(GatewayApplication.java:21)
+2018-07-11 10:22:17,498 INFO  (http-nio-8081-exec-1) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:22:17,518 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:22:17,519 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:22:20,689 INFO  (http-nio-8081-exec-2) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:22:20,689 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:22:20,690 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:24:06,684 INFO  (http-nio-8081-exec-1) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:24:06,701 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:24:06,701 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:24:09,246 INFO  (http-nio-8081-exec-2) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:24:09,246 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:24:09,247 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:24:10,794 INFO  (http-nio-8081-exec-4) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:24:10,795 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:24:10,795 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:24:12,137 INFO  (http-nio-8081-exec-5) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:24:12,138 INFO  (http-nio-8081-exec-5) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:24:12,138 INFO  (http-nio-8081-exec-5) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:01,560 INFO  (http-nio-8081-exec-1) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:01,576 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:01,577 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:03,170 INFO  (http-nio-8081-exec-3) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:03,171 INFO  (http-nio-8081-exec-3) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:03,171 INFO  (http-nio-8081-exec-3) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:04,226 INFO  (http-nio-8081-exec-5) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:04,228 INFO  (http-nio-8081-exec-5) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:04,228 INFO  (http-nio-8081-exec-5) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:04,981 INFO  (http-nio-8081-exec-7) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:04,982 INFO  (http-nio-8081-exec-7) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:04,982 INFO  (http-nio-8081-exec-7) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:05,636 INFO  (http-nio-8081-exec-8) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:05,637 INFO  (http-nio-8081-exec-8) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:05,637 INFO  (http-nio-8081-exec-8) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:06,166 INFO  (http-nio-8081-exec-10) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:06,168 INFO  (http-nio-8081-exec-10) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:06,168 INFO  (http-nio-8081-exec-10) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:06,596 INFO  (http-nio-8081-exec-2) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:06,596 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:06,597 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:07,135 INFO  (http-nio-8081-exec-4) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:07,136 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:07,136 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:07,652 INFO  (http-nio-8081-exec-5) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:07,652 INFO  (http-nio-8081-exec-5) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:07,653 INFO  (http-nio-8081-exec-5) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:08,110 INFO  (http-nio-8081-exec-6) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:08,110 INFO  (http-nio-8081-exec-6) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:08,110 INFO  (http-nio-8081-exec-6) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:08,545 INFO  (http-nio-8081-exec-8) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:08,546 INFO  (http-nio-8081-exec-8) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:08,546 INFO  (http-nio-8081-exec-8) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:09,125 INFO  (http-nio-8081-exec-10) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:09,126 INFO  (http-nio-8081-exec-10) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:09,126 INFO  (http-nio-8081-exec-10) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:16,913 INFO  (http-nio-8081-exec-2) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:16,913 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:16,914 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:17,710 INFO  (http-nio-8081-exec-4) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:17,711 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:17,711 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:26:18,562 INFO  (http-nio-8081-exec-5) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:26:18,563 INFO  (http-nio-8081-exec-5) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:26:18,563 INFO  (http-nio-8081-exec-5) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:17,390 INFO  (http-nio-8081-exec-1) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:17,409 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:17,410 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:19,363 INFO  (http-nio-8081-exec-2) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:19,364 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:19,364 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:23,578 INFO  (http-nio-8081-exec-4) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:23,579 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:23,579 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:24,652 INFO  (http-nio-8081-exec-6) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:24,658 INFO  (http-nio-8081-exec-6) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:24,658 INFO  (http-nio-8081-exec-6) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:25,631 INFO  (http-nio-8081-exec-7) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:25,631 INFO  (http-nio-8081-exec-7) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:25,631 INFO  (http-nio-8081-exec-7) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:26,491 INFO  (http-nio-8081-exec-9) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:26,494 INFO  (http-nio-8081-exec-9) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:26,495 INFO  (http-nio-8081-exec-9) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:27,534 INFO  (http-nio-8081-exec-1) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:27,535 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:27,535 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:28,451 INFO  (http-nio-8081-exec-3) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:28,451 INFO  (http-nio-8081-exec-3) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:28,452 INFO  (http-nio-8081-exec-3) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:29,434 INFO  (http-nio-8081-exec-4) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:29,435 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:29,435 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:30,007 INFO  (http-nio-8081-exec-6) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:30,007 INFO  (http-nio-8081-exec-6) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:30,008 INFO  (http-nio-8081-exec-6) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:30,545 INFO  (http-nio-8081-exec-8) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:30,546 INFO  (http-nio-8081-exec-8) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:30,546 INFO  (http-nio-8081-exec-8) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:31,094 INFO  (http-nio-8081-exec-9) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:31,095 INFO  (http-nio-8081-exec-9) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:31,095 INFO  (http-nio-8081-exec-9) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:31,795 INFO  (http-nio-8081-exec-1) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:31,796 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:31,796 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:30:32,139 INFO  (http-nio-8081-exec-3) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:30:32,140 INFO  (http-nio-8081-exec-3) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:30:32,140 INFO  (http-nio-8081-exec-3) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:31:33,044 INFO  (http-nio-8081-exec-4) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:31:33,058 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:31:33,059 INFO  (http-nio-8081-exec-4) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:31:34,753 INFO  (http-nio-8081-exec-5) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:31:34,753 INFO  (http-nio-8081-exec-5) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:31:34,754 INFO  (http-nio-8081-exec-5) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:31:35,915 INFO  (http-nio-8081-exec-7) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:31:35,915 INFO  (http-nio-8081-exec-7) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:31:35,916 INFO  (http-nio-8081-exec-7) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:31:36,718 INFO  (http-nio-8081-exec-8) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:31:36,719 INFO  (http-nio-8081-exec-8) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:31:36,719 INFO  (http-nio-8081-exec-8) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:31:37,275 INFO  (http-nio-8081-exec-10) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:31:37,275 INFO  (http-nio-8081-exec-10) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:31:37,276 INFO  (http-nio-8081-exec-10) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:31:37,942 INFO  (http-nio-8081-exec-2) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:31:37,942 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:31:37,942 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:38:06,242 ERROR (main) SpringApplication:842- Application run failed
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:120)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:84)
+	at org.springframework.cloud.bootstrap.BootstrapApplicationListener.onApplicationEvent(BootstrapApplicationListener.java:62)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.doInvokeListener(SimpleApplicationEventMulticaster.java:172)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:165)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:139)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:127)
+	at org.springframework.boot.context.event.EventPublishingRunListener.environmentPrepared(EventPublishingRunListener.java:74)
+	at org.springframework.boot.SpringApplicationRunListeners.environmentPrepared(SpringApplicationRunListeners.java:54)
+	at org.springframework.boot.SpringApplication.prepareEnvironment(SpringApplication.java:358)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:317)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1255)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1243)
+	at hello.GatewayApplication.main(GatewayApplication.java:21)
+2018-07-11 10:41:14,062 INFO  (http-nio-8081-exec-1) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:41:14,072 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:41:14,073 INFO  (http-nio-8081-exec-1) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
+2018-07-11 10:41:15,379 INFO  (http-nio-8081-exec-2) SimpleFilter:36- GET request to http://localhost:8081/ws/available
+2018-07-11 10:41:15,381 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:31- Should route: true
+2018-07-11 10:41:15,382 INFO  (http-nio-8081-exec-2) QueryParamPortPreFilter:51- Route: --> http://localhost:8090
